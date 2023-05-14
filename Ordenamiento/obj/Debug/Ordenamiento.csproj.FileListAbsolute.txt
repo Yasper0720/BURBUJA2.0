@@ -1,0 +1,20 @@
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Properties.Resources.resources
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.GenerateResource.cache
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+C:\Users\Administrador\source\repos\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Burbuja.resources
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.exe
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\obj\Debug\Ordenamiento.pdb
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe.config
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.exe
+C:\Users\User\Desktop\Projects\C# Projects\Ordenamiento\Ordenamiento\bin\Debug\Ordenamiento.pdb
