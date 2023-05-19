@@ -52,7 +52,6 @@
     <Compile Include="Burbuja.Designer.cs">
       <DependentUpon>Burbuja.cs</DependentUpon>
     </Compile>
-    <Compile Include="Numeros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Burbuja.resx">

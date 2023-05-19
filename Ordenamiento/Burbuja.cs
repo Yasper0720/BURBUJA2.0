@@ -8,12 +8,15 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace Ordenamiento
 {
     public partial class Burbuja : Form
     {
         Numeros Datos = new Numeros();
+        Stopwatch stopwatch = new Stopwatch();
+
         bool estado = false;
         int[] Arreglo_numeros;
         Button[] Arreglo;
@@ -24,6 +27,7 @@ namespace Ordenamiento
         }
         public void BubbleSort(ref int[] arreglo, ref Button[] Arreglo_Numeros)
         {
+            stopwatch.Start();
             for (int i = 0; i < arreglo.Length; i++)
             {
                 for (int j = 0; j < arreglo.Length - 1; j++)
@@ -36,6 +40,24 @@ namespace Ordenamiento
                     Intercambio(ref Arreglo_Numeros, j + 1, j);
                      }
                 }
+            }
+            stopwatch.Stop();
+            TimeSpan elapsed = stopwatch.Elapsed;
+            MessageBox.Show($"El tiempo transcurrido fue: {elapsed}");
+        }
+
+        static void Ordenamiento_Insercion(int[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                int temp = array[i];
+                int j = i - 1;
+                while ((j >= 0) && (array[j] > temp))
+                {
+                    array[j + 1] = array[j];
+                    j--;
+                }
+                array[j + 1] = temp;
             }
         }
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -91,6 +113,7 @@ namespace Ordenamiento
             txtNumero.Enabled = false;
             btnAgregar.Enabled = false;
             BubbleSort(ref Arreglo_numeros, ref Arreglo);
+            //Ordenamiento_Insercion(Arreglo_numeros);
 
             this.Cursor = Cursors.Default;
             btnOrdenar.Enabled = true;
